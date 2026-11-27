@@ -1,4 +1,7 @@
-#include <iostream>
+git commit -m "Add array example" -- array.cpp
+git commit -m "Add index example" -- index.cpp
+git commit -m "Add largest element example" -- largestelement.cpp
+git commit -m "Add reverse example" -- reverse.cpp#include <iostream>
 using namespace std;
 
 int main() {
